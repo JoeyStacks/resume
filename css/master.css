@@ -101,30 +101,3 @@ img {
 .side-lines:after {
   left: 0.5em;
   margin-right: -50%; }
-
-.pt-15 {
-  padding-top: 15px; }
-
-.pt-top {
-  padding-top: 60px; }
-
-.pl-0 {
-  padding-left: 0px; }
-
-.pl-25 {
-  padding-left: 25px; }
-
-.pl-xl {
-  padding-left: 70px; }
-
-.pr-0 {
-  padding-right: 0px; }
-
-.pr-25 {
-  padding-right: 25px; }
-
-.pr-xl {
-  padding-right: 110px; }
-
-.mb-2 {
-  margin-bottom: 2px; }
