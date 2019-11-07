@@ -1,17 +1,23 @@
 .exp-column {
-  padding: 65px 65px 55px;
-  width: 73%;
+  padding: 65px 35px 55px;
+  width: 850px;
   float: right; }
 
 .exp {
   padding-bottom: 15px; }
+  .exp > h2 {
+    font-size: 28px; }
   .exp__title {
     letter-spacing: 2px; }
-  .exp__header {
-    padding: 10px 0 0; }
-    .exp__header--list {
-      line-height: 27.5px;
-      font-size: 16.5px;
-      padding-bottom: 10px; }
+  .exp__header > col > h3 {
+    font-size: 24px; }
+  .exp__header > h5 {
+    font-size: 14.5px; }
+  .exp__header--list {
+    line-height: 27.5px;
+    font-size: 12.5px;
+    padding-bottom: 10px; }
   .exp__hr {
-    width: 85%; }
+    width: 85%;
+    margin-top: 8px;
+    margin-bottom: 8px; }
