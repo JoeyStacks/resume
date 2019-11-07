@@ -1,7 +1,6 @@
 .exp-column {
   padding: 65px 35px 55px;
-  width: 850px;
-  float: right; }
+  flex: 1; }
 
 .exp {
   padding-bottom: 15px; }

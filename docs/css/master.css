@@ -1,3 +1,6 @@
+.body {
+  display: flex; }
+
 .faded-border {
   border-color: #D3D3D3;
   opacity: .35; }
@@ -23,8 +26,7 @@ img {
 .info-column {
   background-color: #096192;
   padding: 65px 0px;
-  width: 250px;
-  float: left; }
+  width: 250px; }
 
 .info {
   color: #fffff2; }
@@ -65,8 +67,7 @@ img {
 
 .exp-column {
   padding: 65px 35px 55px;
-  width: 850px;
-  float: right; }
+  flex: 1; }
 
 .exp {
   padding-bottom: 15px; }
