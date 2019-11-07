@@ -1,7 +1,8 @@
 .exp-column {
-  margin: 0px 15px;
-  width: 800px;
-  display: inline-block; }
+  margin: 25px 15px;
+  width: 730px;
+  display: inline-block;
+  vertical-align: top; }
 
 .exp {
   padding-bottom: 15px; }

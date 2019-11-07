@@ -23,7 +23,7 @@ img {
 .info-column {
   background-color: #096192;
   padding: 65px 0px;
-  width: 250px;
+  width: 225px;
   display: inline-block; }
 
 .info {
@@ -64,9 +64,10 @@ img {
     margin: 15px 0 0; }
 
 .exp-column {
-  margin: 0px 15px;
-  width: 800px;
-  display: inline-block; }
+  margin: 25px 15px;
+  width: 730px;
+  display: inline-block;
+  vertical-align: top; }
 
 .exp {
   padding-bottom: 15px; }
