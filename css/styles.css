@@ -1,0 +1,18 @@
+.faded-border {
+  border-color: #D3D3D3;
+  opacity: .35; }
+
+.lt-sp-2 {
+  letter-spacing: 2px; }
+
+img {
+  width: 25px;
+  height: 35px;
+  float: left;
+  margin-right: 20px; }
+
+.underline {
+  border-bottom: 1px solid #D3D3D3; }
+
+.italic {
+  font-style: italic; }
