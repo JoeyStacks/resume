@@ -1,0 +1,65 @@
+@import "../colors.scss";
+
+.info__text > ul { color: $faded-grey; }
+
+.info-column {
+    background-color: $blue;
+    padding: 65px 0px;
+    width: 27%;
+    float: left;
+}
+
+// applying bem
+.info {
+    color: $off-white;
+
+    &--blank {
+        // height: 80px;
+    }
+
+    &--padding {
+        padding-bottom: 10px;
+    }
+
+    &__header {
+        background-color: $dark-blue;
+        padding-left: 10%;
+        margin-top: 10px;
+        font-size: 19px;
+    }
+
+    &__text {
+        padding-left: 10%;
+        line-height: 1.8;
+        margin: 17.5px 0;
+        font-size: 17px;
+
+        &--faded {
+            color: $faded-grey;
+        }
+    }
+
+    &__hr {
+        margin-top: 10.5px;
+        margin-bottom: 10.5px;
+        width: 75%;
+        border-color: $faded-grey;
+        opacity: .35;
+    }
+
+    &__title {
+        letter-spacing: 7px;
+        font-size: 46px;
+        font-weight: 550;
+        text-shadow: 6px 4px $dark-blue;
+        margin-bottom: 10px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    &__description {
+        text-align: center;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+}

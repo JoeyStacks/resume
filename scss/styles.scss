@@ -1,0 +1,25 @@
+@import "colors.scss";
+
+.faded-border {
+	border-color: $faded-grey;
+	opacity: .35;
+}
+
+.lt-sp-2 {
+	letter-spacing: 2px;
+}
+
+img {
+	width: 25px;
+	height: 35px;
+	float:left;
+	margin-right: 20px;
+}
+
+.underline {
+	border-bottom: 1px solid $faded-grey;
+}
+
+.italic {
+    font-style: italic;
+}

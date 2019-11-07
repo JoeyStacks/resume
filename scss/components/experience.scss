@@ -1,0 +1,27 @@
+.exp-column {
+    padding: 65px 65px 55px;
+    width: 73%;
+    float: right;
+}
+
+.exp {
+    padding-bottom: 15px;
+
+    &__title {
+        letter-spacing: 2px;
+    }
+
+    &__header {
+        padding: 10px 0 0;
+
+        &--list {
+            line-height: 27.5px;
+            font-size: 16.5px;
+            padding-bottom: 10px;
+        }
+    }
+
+    &__hr {
+        width: 85%;
+    }
+}
