@@ -1,7 +1,7 @@
 .exp-column {
     // padding: 65px 35px 55px;
     margin: 35px 15px;
-    width: 575px;
+    width: 580px;
     display:inline-block;
     vertical-align: top;
 }
@@ -19,13 +19,17 @@
 
     &__header {
         > div > h4 {
-            font-size: 18px;
+            font-size: 17px;
             line-height: 16px;
         }
 
         > div > h5, > h5 {
-            font-size: 16px;
+            font-size: 15px;
             line-height: 16px;
+        }
+
+        > h5 {
+            margin-bottom: 12px;
         }
 
         > div > h6 {
@@ -36,7 +40,7 @@
 
         &--list {
             line-height: 18px;
-            font-size: 12.5px;
+            font-size: 12px;
             // padding-bottom: 10px;
         }
     }
