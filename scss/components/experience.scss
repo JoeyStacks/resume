@@ -1,16 +1,16 @@
 .exp-column {
     // padding: 65px 35px 55px;
-    margin: 25px 15px;
-    width: 550px;
+    margin: 35px 15px;
+    width: 575px;
     display:inline-block;
     vertical-align: top;
 }
 
 .exp {
-    padding-bottom: 15px;
+    padding-bottom: 6px;
 
     > h2 {
-        font-size: 28px;
+        font-size: 22px;
     }
 
     &__title {
@@ -18,26 +18,32 @@
     }
 
     &__header {
-        // padding: 6px 0 0;
-
-        > col > h3 {
-            font-size: 24px;
+        > div > h4 {
+            font-size: 18px;
+            line-height: 16px;
         }
 
-        > h5 {
-            font-size: 14.5px;
+        > div > h5, > h5 {
+            font-size: 16px;
+            line-height: 16px;
+        }
+
+        > div > h6 {
+            font-size: 12px;
+            line-height: 16px;
+            margin-bottom: 4px;
         }
 
         &--list {
-            line-height: 27.5px;
+            line-height: 18px;
             font-size: 12.5px;
-            padding-bottom: 10px;
+            // padding-bottom: 10px;
         }
     }
 
     &__hr {
         width: 85%;
-        margin-top: 8px;
-        margin-bottom: 8px;
+        margin-top: 10px;
+        margin-bottom: 12px;
     }
 }

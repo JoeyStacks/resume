@@ -4,7 +4,7 @@
 
 .info-column {
     background-color: $blue;
-    padding: 65px 0px;
+    padding: 40px 0px;
     width: 225px;
     display:inline-block;
 }
@@ -12,6 +12,10 @@
 // applying bem
 .info {
     color: $off-white;
+
+    > h6 {
+        margin-bottom: 6px;
+    }
 
     &--blank {
         // height: 80px;
@@ -24,22 +28,22 @@
     &__header {
         background-color: $dark-blue;
         padding-left: 8%;
-        margin-top: 10px;
-        font-size: 14.5px;
+        margin-top: 8px;
+        font-size: 14px;
     }
 
     &__text {
         padding-left: 8%;
         line-height: 1.8;
-        margin: 8px 0;
-        font-size: 12.5px;
+        margin: 4px 0;
+        font-size: 12px;
 
         &--faded {
             color: $faded-grey;
         }
 
         > ul {
-            margin-bottom: 12px;
+            margin-bottom: 8px;
             padding-inline-start: 30px;
         }
     }
@@ -53,7 +57,7 @@
     }
 
     &__title {
-        letter-spacing: 3.5px;
+        letter-spacing: 4.5px;
         font-size: 36px;
         font-weight: 550;
         // text-shadow: 6px 4px $dark-blue;
@@ -63,7 +67,7 @@
     }
 
     &__description {
-        font-size: 22px;
+        font-size: 20px;
         text-align: center;
         margin: 15px 0 0;
     }

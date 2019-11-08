@@ -1,24 +1,29 @@
 .exp-column {
-  margin: 25px 15px;
-  width: 550px;
+  margin: 35px 15px;
+  width: 575px;
   display: inline-block;
   vertical-align: top; }
 
 .exp {
-  padding-bottom: 15px; }
+  padding-bottom: 6px; }
   .exp > h2 {
-    font-size: 28px; }
+    font-size: 22px; }
   .exp__title {
     letter-spacing: 2px; }
-  .exp__header > col > h3 {
-    font-size: 24px; }
-  .exp__header > h5 {
-    font-size: 14.5px; }
+  .exp__header > div > h4 {
+    font-size: 18px;
+    line-height: 16px; }
+  .exp__header > div > h5, .exp__header > h5 {
+    font-size: 16px;
+    line-height: 16px; }
+  .exp__header > div > h6 {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 4px; }
   .exp__header--list {
-    line-height: 27.5px;
-    font-size: 12.5px;
-    padding-bottom: 10px; }
+    line-height: 18px;
+    font-size: 12.5px; }
   .exp__hr {
     width: 85%;
-    margin-top: 8px;
-    margin-bottom: 8px; }
+    margin-top: 10px;
+    margin-bottom: 12px; }

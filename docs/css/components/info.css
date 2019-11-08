@@ -3,28 +3,30 @@
 
 .info-column {
   background-color: #096192;
-  padding: 65px 0px;
+  padding: 40px 0px;
   width: 225px;
   display: inline-block; }
 
 .info {
   color: #fffff2; }
+  .info > h6 {
+    margin-bottom: 6px; }
   .info--padding {
     padding-bottom: 10px; }
   .info__header {
     background-color: #074a70;
     padding-left: 8%;
-    margin-top: 10px;
-    font-size: 14.5px; }
+    margin-top: 8px;
+    font-size: 14px; }
   .info__text {
     padding-left: 8%;
     line-height: 1.8;
-    margin: 8px 0;
-    font-size: 12.5px; }
+    margin: 4px 0;
+    font-size: 12px; }
     .info__text--faded {
       color: #D3D3D3; }
     .info__text > ul {
-      margin-bottom: 12px;
+      margin-bottom: 8px;
       padding-inline-start: 30px; }
   .info__hr {
     margin-top: 6px;
@@ -33,13 +35,13 @@
     border-color: white;
     opacity: .35; }
   .info__title {
-    letter-spacing: 3.5px;
+    letter-spacing: 4.5px;
     font-size: 36px;
     font-weight: 550;
     margin-bottom: 6px;
     text-align: center;
     text-transform: uppercase; }
   .info__description {
-    font-size: 22px;
+    font-size: 20px;
     text-align: center;
     margin: 15px 0 0; }
