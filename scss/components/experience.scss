@@ -18,12 +18,10 @@
     }
 
     &__header {
-        > div > h4 {
-            font-size: 12px;
-            line-height: 16px;
-        }
-
-        > div > h5, > h5 {
+        > div > h4,
+        > div > h5,
+        > div > h6,
+        > h5 {
             font-size: 12px;
             line-height: 16px;
         }
@@ -33,14 +31,13 @@
         }
 
         > div > h6 {
-            font-size: 12px;
-            line-height: 16px;
             margin-bottom: 4px;
         }
 
         &--list {
-            line-height: 18px;
             font-size: 12px;
+            line-height: 18px;
+            padding-right: 15px;
             // padding-bottom: 10px;
         }
     }
