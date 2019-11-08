@@ -6,8 +6,8 @@
   letter-spacing: 2px; }
 
 img {
-  width: 18px;
-  height: 21px;
+  width: 16px;
+  height: 18px;
   float: left;
   margin-right: 6px; }
 
@@ -67,7 +67,7 @@ img {
 
 .exp-column {
   margin: 35px 15px;
-  width: 580px;
+  width: 585px;
   display: inline-block;
   vertical-align: top; }
 
@@ -78,10 +78,10 @@ img {
   .exp__title {
     letter-spacing: 2px; }
   .exp__header > div > h4 {
-    font-size: 17px;
+    font-size: 16px;
     line-height: 16px; }
   .exp__header > div > h5, .exp__header > h5 {
-    font-size: 15px;
+    font-size: 14px;
     line-height: 16px; }
   .exp__header > h5 {
     margin-bottom: 12px; }
