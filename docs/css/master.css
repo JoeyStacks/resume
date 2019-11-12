@@ -55,17 +55,15 @@ img {
     border-color: white;
     opacity: 0.35; }
   .info__title {
-    letter-spacing: 4.7px;
-    font-size: 38px;
-    font-weight: 550;
+    letter-spacing: 3.5px;
+    font-size: 36px;
     margin-bottom: 6px;
     text-align: center;
     text-transform: uppercase; }
   .info__description {
     font-size: 18px;
     text-align: center;
-    margin: 15px 0 0;
-    letter-spacing: 1.2px; }
+    margin: 15px 0 0; }
 
 .exp-column {
   margin: 40px 11px;
@@ -103,7 +101,7 @@ img {
     margin-top: 10px;
     margin-bottom: 12px;
     border-color: black;
-    opacity: 0.45; }
+    opacity: 0.35; }
 
 .side-lines {
   overflow: hidden;
