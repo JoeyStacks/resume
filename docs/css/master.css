@@ -23,7 +23,7 @@ img {
 
 .info-column {
   background-color: #096192;
-  padding: 40px 0px 57px;
+  padding: 45px 0px 56.5px;
   width: 225px;
   display: inline-block; }
 
@@ -67,7 +67,7 @@ img {
     margin: 15px 0 0; }
 
 .exp-column {
-  margin: 35px 10px;
+  margin: 40px 10px;
   width: 590px;
   display: inline-block;
   vertical-align: top; }
@@ -96,13 +96,13 @@ img {
   .exp__header--list {
     font-size: 12px;
     line-height: 18px;
-    padding-right: 20px; }
+    padding-right: 23px; }
   .exp__hr {
     width: 85%;
     margin-top: 10px;
     margin-bottom: 12px;
     border-color: black;
-    opacity: .4; }
+    opacity: .5; }
 
 .side-lines {
   overflow: hidden;
@@ -124,5 +124,5 @@ img {
   margin-left: -50%; }
 
 .side-lines:after {
-  left: -0.5em;
-  margin-right: -51%; }
+  left: -0.4em;
+  margin-right: -49%; }
