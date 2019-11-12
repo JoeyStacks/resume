@@ -6,7 +6,7 @@
   letter-spacing: 2px; }
 
 img {
-  width: 16px;
+  width: 17px;
   height: 18px;
   float: left;
   margin-right: 6px; }
@@ -22,7 +22,7 @@ img {
 
 .info-column {
   background-color: #096192;
-  padding: 40px 0px 60px;
+  padding: 40px 0px 55px;
   width: 225px;
   display: inline-block; }
 
@@ -67,7 +67,7 @@ img {
 
 .exp-column {
   margin: 35px 8px;
-  width: 590px;
+  width: 592px;
   display: inline-block;
   vertical-align: top; }
 
@@ -95,7 +95,7 @@ img {
   .exp__header--list {
     font-size: 12px;
     line-height: 18px;
-    padding-right: 15px; }
+    padding-right: 17px; }
   .exp__hr {
     width: 85%;
     margin-top: 10px;
