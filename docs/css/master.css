@@ -55,6 +55,7 @@ img {
     border-color: white;
     opacity: 0.35; }
   .info__title {
+    padding-left: 4%;
     letter-spacing: 3.5px;
     font-size: 36px;
     margin-bottom: 6px;
@@ -100,8 +101,8 @@ img {
     width: 85%;
     margin-top: 10px;
     margin-bottom: 12px;
-    border-color: black;
-    opacity: 0.35; }
+    border-color: #8c8c8c;
+    opacity: 1; }
 
 .side-lines {
   overflow: hidden;
@@ -116,12 +117,12 @@ img {
   position: relative;
   vertical-align: middle;
   width: 45%;
-  opacity: 0.5; }
+  opacity: 0.6; }
 
 .side-lines:before {
   right: 0.5em;
   margin-left: -50%; }
 
 .side-lines:after {
-  left: -0.45em;
+  left: -0.474em;
   margin-right: -49%; }
