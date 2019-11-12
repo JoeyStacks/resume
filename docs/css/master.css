@@ -23,7 +23,7 @@ img {
 
 .info-column {
   background-color: #096192;
-  padding: 40px 0px 57.5px;
+  padding: 40px 0px 57px;
   width: 225px;
   display: inline-block; }
 
@@ -124,5 +124,4 @@ img {
   margin-left: -50%; }
 
 .side-lines:after {
-  left: 0.5em;
   margin-right: -50%; }
