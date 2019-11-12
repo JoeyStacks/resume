@@ -10,7 +10,7 @@
   height: 1px;
   position: relative;
   vertical-align: middle;
-  width: 75%;
+  width: 45%;
   opacity: .5; }
 
 .side-lines:before {
@@ -18,4 +18,5 @@
   margin-left: -50%; }
 
 .side-lines:after {
-  margin-right: -50%; }
+  left: -0.5em;
+  margin-right: -51%; }

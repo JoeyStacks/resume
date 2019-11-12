@@ -11,7 +11,7 @@
 	height: 1px;
 	position: relative;
 	vertical-align: middle;
-	width: 75%;
+	width: 45%;
 	opacity: .5;
 }
 
@@ -21,6 +21,6 @@
 }
 
 .side-lines:after {
-	// left: 0.5em;
-	margin-right: -50%;
+	left: -0.5em;
+	margin-right: -51%;
 }
