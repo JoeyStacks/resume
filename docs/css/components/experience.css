@@ -1,6 +1,6 @@
 .exp-column {
-  margin: 35px 8px;
-  width: 592px;
+  margin: 35px 10px;
+  width: 590px;
   display: inline-block;
   vertical-align: top; }
 
@@ -28,8 +28,10 @@
   .exp__header--list {
     font-size: 12px;
     line-height: 18px;
-    padding-right: 17px; }
+    padding-right: 20px; }
   .exp__hr {
     width: 85%;
     margin-top: 10px;
-    margin-bottom: 12px; }
+    margin-bottom: 12px;
+    border-color: black;
+    opacity: .4; }

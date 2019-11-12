@@ -9,7 +9,8 @@ img {
   width: 17px;
   height: 18px;
   float: left;
-  margin-right: 6px; }
+  margin-right: 6px;
+  color: black; }
 
 .underline {
   border-bottom: 1px solid #D3D3D3; }
@@ -22,7 +23,7 @@ img {
 
 .info-column {
   background-color: #096192;
-  padding: 40px 0px 55px;
+  padding: 40px 0px 57.5px;
   width: 225px;
   display: inline-block; }
 
@@ -66,8 +67,8 @@ img {
     margin: 15px 0 0; }
 
 .exp-column {
-  margin: 35px 8px;
-  width: 592px;
+  margin: 35px 10px;
+  width: 590px;
   display: inline-block;
   vertical-align: top; }
 
@@ -95,11 +96,13 @@ img {
   .exp__header--list {
     font-size: 12px;
     line-height: 18px;
-    padding-right: 17px; }
+    padding-right: 20px; }
   .exp__hr {
     width: 85%;
     margin-top: 10px;
-    margin-bottom: 12px; }
+    margin-bottom: 12px;
+    border-color: black;
+    opacity: .4; }
 
 .side-lines {
   overflow: hidden;
@@ -107,14 +110,14 @@ img {
 
 .side-lines:before,
 .side-lines:after {
-  background-color: #333;
+  background-color: black;
   content: "";
   display: inline-block;
   height: 1px;
   position: relative;
   vertical-align: middle;
   width: 75%;
-  opacity: .35; }
+  opacity: .5; }
 
 .side-lines:before {
   right: 0.5em;

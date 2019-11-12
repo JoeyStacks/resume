@@ -4,14 +4,14 @@
 
 .side-lines:before,
 .side-lines:after {
-  background-color: #333;
+  background-color: black;
   content: "";
   display: inline-block;
   height: 1px;
   position: relative;
   vertical-align: middle;
   width: 75%;
-  opacity: .35; }
+  opacity: .5; }
 
 .side-lines:before {
   right: 0.5em;

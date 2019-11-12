@@ -9,7 +9,8 @@ img {
   width: 17px;
   height: 18px;
   float: left;
-  margin-right: 6px; }
+  margin-right: 6px;
+  color: black; }
 
 .underline {
   border-bottom: 1px solid #D3D3D3; }
