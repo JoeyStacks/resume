@@ -22,7 +22,7 @@ img {
 
 .info-column {
   background-color: #096192;
-  padding: 40px 0px;
+  padding: 40px 0px 60px;
   width: 225px;
   display: inline-block; }
 
@@ -81,11 +81,16 @@ img {
   .exp__header > div > h5,
   .exp__header > div > h6,
   .exp__header > h5 {
-    font-size: 12px;
     line-height: 16px; }
+  .exp__header > div > h4 {
+    font-size: 16px; }
+  .exp__header > div > h5 {
+    font-size: 14px; }
   .exp__header > h5 {
+    font-size: 12px;
     margin-bottom: 12px; }
   .exp__header > div > h6 {
+    font-size: 12px;
     margin-bottom: 4px; }
   .exp__header--list {
     font-size: 12px;
