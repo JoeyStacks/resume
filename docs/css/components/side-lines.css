@@ -11,12 +11,12 @@
   position: relative;
   vertical-align: middle;
   width: 45%;
-  opacity: .5; }
+  opacity: 0.5; }
 
 .side-lines:before {
   right: 0.5em;
   margin-left: -50%; }
 
 .side-lines:after {
-  left: -0.4em;
+  left: -0.45em;
   margin-right: -49%; }

@@ -23,7 +23,7 @@ img {
 
 .info-column {
   background-color: #096192;
-  padding: 45px 0px 56.5px;
+  padding: 45px 0px 55.5px;
   width: 225px;
   display: inline-block; }
 
@@ -35,11 +35,11 @@ img {
     padding-bottom: 10px; }
   .info__header {
     background-color: #074a70;
-    padding-left: 8%;
+    padding-left: 8.5%;
     margin-top: 8px;
     font-size: 14px; }
   .info__text {
-    padding-left: 8%;
+    padding-left: 8.5%;
     line-height: 1.8;
     margin: 4px 0;
     font-size: 12px; }
@@ -53,10 +53,10 @@ img {
     margin-bottom: 6px;
     width: 55%;
     border-color: white;
-    opacity: .35; }
+    opacity: 0.35; }
   .info__title {
-    letter-spacing: 4.5px;
-    font-size: 36px;
+    letter-spacing: 4.7px;
+    font-size: 38px;
     font-weight: 550;
     margin-bottom: 6px;
     text-align: center;
@@ -64,7 +64,8 @@ img {
   .info__description {
     font-size: 18px;
     text-align: center;
-    margin: 15px 0 0; }
+    margin: 15px 0 0;
+    letter-spacing: 1.2px; }
 
 .exp-column {
   margin: 40px 11px;
@@ -102,7 +103,7 @@ img {
     margin-top: 10px;
     margin-bottom: 12px;
     border-color: black;
-    opacity: .5; }
+    opacity: 0.45; }
 
 .side-lines {
   overflow: hidden;
@@ -117,12 +118,12 @@ img {
   position: relative;
   vertical-align: middle;
   width: 45%;
-  opacity: .5; }
+  opacity: 0.5; }
 
 .side-lines:before {
   right: 0.5em;
   margin-left: -50%; }
 
 .side-lines:after {
-  left: -0.4em;
+  left: -0.45em;
   margin-right: -49%; }

@@ -3,7 +3,7 @@
 
 .info-column {
   background-color: #096192;
-  padding: 45px 0px 56.5px;
+  padding: 45px 0px 55.5px;
   width: 225px;
   display: inline-block; }
 
@@ -15,11 +15,11 @@
     padding-bottom: 10px; }
   .info__header {
     background-color: #074a70;
-    padding-left: 8%;
+    padding-left: 8.5%;
     margin-top: 8px;
     font-size: 14px; }
   .info__text {
-    padding-left: 8%;
+    padding-left: 8.5%;
     line-height: 1.8;
     margin: 4px 0;
     font-size: 12px; }
@@ -33,10 +33,10 @@
     margin-bottom: 6px;
     width: 55%;
     border-color: white;
-    opacity: .35; }
+    opacity: 0.35; }
   .info__title {
-    letter-spacing: 4.5px;
-    font-size: 36px;
+    letter-spacing: 4.7px;
+    font-size: 38px;
     font-weight: 550;
     margin-bottom: 6px;
     text-align: center;
@@ -44,4 +44,5 @@
   .info__description {
     font-size: 18px;
     text-align: center;
-    margin: 15px 0 0; }
+    margin: 15px 0 0;
+    letter-spacing: 1.2px; }
