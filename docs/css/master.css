@@ -67,8 +67,8 @@ img {
     margin: 15px 0 0; }
 
 .exp-column {
-  margin: 40px 10px;
-  width: 590px;
+  margin: 40px 11px;
+  width: 589px;
   display: inline-block;
   vertical-align: top; }
 
@@ -96,7 +96,7 @@ img {
   .exp__header--list {
     font-size: 12px;
     line-height: 18px;
-    padding-right: 23px; }
+    padding-right: 26px; }
   .exp__hr {
     width: 85%;
     margin-top: 10px;
